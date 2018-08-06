@@ -28,9 +28,7 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;
 }
-body {
-	line-height: 1;
-}
+
 ol, ul {
 	list-style: none;
 }
@@ -48,6 +46,7 @@ table {
 }
 
 body{
+	line-height: 1;
 	background-image: url("assets/images/1.png");
 	margin: 0px;
 	padding: 15px;
